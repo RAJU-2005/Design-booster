@@ -63,7 +63,7 @@ Design Booster includes four major features:
 
 ## 🎥 Pitch Video (Required)
 
-📌 [Link to video demo (YouTube/Drive/Streamable)](your-video-link-here)
+📌 [Link to video demo (YouTube)](https://youtu.be/j_knSDbz-5Q)
 
 ---
 
