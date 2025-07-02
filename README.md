@@ -78,7 +78,7 @@ Design Booster includes four major features:
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](www.linkedin.com/in/raju2005)
 - [Email](rajux2005@gmail.com)
 
 ---
